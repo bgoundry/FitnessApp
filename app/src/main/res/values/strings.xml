@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+
+    <string name="enter">Enter a num: </string>
+</resources>
